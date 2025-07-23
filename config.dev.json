@@ -21,7 +21,7 @@
   },
   
   "adminBot": [
-    "100081330372098",
+    "61573768170312",
     ""
   ],
   "whiteListMode": {
@@ -29,8 +29,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "‌[+]×𝗦𝗵𝗶𝗣𝘂 𝗔𝗶💫",
-  "prefix": "+",
+  "nickNameBot": "‌🜲☠︎︎ 𝙳𝚊𝚛𝚔𝙸𝚆𝙸𝚂𝙷 ☠︎︎🜲",
+  "prefix": "#",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://shipuaimirai:chitron%402448766@shipuaimiraibot.nwesgqa.mongodb.net/?retryWrites=true&w=majority&appName=ShiPuAiMiraiBot",
